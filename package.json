@@ -1,0 +1,28 @@
+{
+  "name": "how-to-write-a-loader-demo",
+  "version": "1.0.0",
+  "description": "手把手教你写一个 loader （demo）",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikcamp/How-to-write-a-loader-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ikcamp/How-to-write-a-loader-demo/issues"
+  },
+  "homepage": "https://github.com/ikcamp/How-to-write-a-loader-demo#readme",
+  "devDependencies": {
+    "html-loader": "^0.5.1",
+    "html-webpack-plugin": "^2.30.1",
+    "loader-utils": "^1.1.0",
+    "minimize": "^2.1.0",
+    "webpack": "^2.7.0",
+    "webpack-dev-server": "^2.9.7"
+  }
+}
